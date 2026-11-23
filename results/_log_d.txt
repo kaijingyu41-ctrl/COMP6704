@@ -1,0 +1,23 @@
+﻿[D] 20 digit pairs
+[D] 1/20 digits-same-1494-1153: ADMM (fixed rho)=5e-16, ADMM (residual balancing)=3e-15, PDHG=2e-11, PDHG (restart)=2e-11
+[D] 2/20 digits-same-563-476: ADMM (fixed rho)=3e-16, ADMM (residual balancing)=1e-14, PDHG=1e-15, PDHG (restart)=1e-15
+[D] 3/20 digits-same-22-132: ADMM (fixed rho)=3e-16, ADMM (residual balancing)=6e-15, PDHG=1e-11, PDHG (restart)=1e-11
+[D] 4/20 digits-same-1474-1160: ADMM (fixed rho)=4e-16, ADMM (residual balancing)=1e-08, PDHG=1e-12, PDHG (restart)=1e-12
+[D] 5/20 digits-same-909-1114: ADMM (fixed rho)=6e-16, ADMM (residual balancing)=3e-15, PDHG=6e-16, PDHG (restart)=7e-16
+[D] 6/20 digits-same-1312-1144: ADMM (fixed rho)=4e-16, ADMM (residual balancing)=7e-15, PDHG=1e-09, PDHG (restart)=1e-09
+[D] 7/20 digits-same-1683-996: ADMM (fixed rho)=3e-16, ADMM (residual balancing)=8e-15, PDHG=6e-16, PDHG (restart)=6e-16
+[D] 8/20 digits-same-1209-1459: ADMM (fixed rho)=3e-16, ADMM (residual balancing)=4e-15, PDHG=3e-16, PDHG (restart)=3e-16
+[D] 9/20 digits-same-686-1538: ADMM (fixed rho)=4e-16, ADMM (residual balancing)=9e-15, PDHG=3e-13, PDHG (restart)=3e-13
+[D] 10/20 digits-same-69-1379: ADMM (fixed rho)=4e-16, ADMM (residual balancing)=1e-14, PDHG=2e-15, PDHG (restart)=2e-15
+[D] 11/20 digits-cross-1521-315: ADMM (fixed rho)=5e-16, ADMM (residual balancing)=1e-14, PDHG=1e-15, PDHG (restart)=1e-15
+[D] 12/20 digits-cross-160-1551: ADMM (fixed rho)=4e-16, ADMM (residual balancing)=8e-15, PDHG=5e-13, PDHG (restart)=5e-13
+[D] 13/20 digits-cross-39-973: ADMM (fixed rho)=4e-16, ADMM (residual balancing)=1e-14, PDHG=1e-15, PDHG (restart)=1e-15
+[D] 14/20 digits-cross-144-538: ADMM (fixed rho)=3e-16, ADMM (residual balancing)=9e-15, PDHG=8e-16, PDHG (restart)=8e-16
+[D] 15/20 digits-cross-864-759: ADMM (fixed rho)=3e-16, ADMM (residual balancing)=9e-15, PDHG=2e-14, PDHG (restart)=3e-14
+[D] 16/20 digits-cross-724-50: ADMM (fixed rho)=4e-16, ADMM (residual balancing)=8e-15, PDHG=2e-13, PDHG (restart)=2e-13
+[D] 17/20 digits-cross-9-223: ADMM (fixed rho)=5e-16, ADMM (residual balancing)=8e-15, PDHG=1e-15, PDHG (restart)=2e-15
+[D] 18/20 digits-cross-14-1205: ADMM (fixed rho)=3e-16, ADMM (residual balancing)=1e-14, PDHG=9e-16, PDHG (restart)=1e-15
+[D] 19/20 digits-cross-944-1162: ADMM (fixed rho)=3e-16, ADMM (residual balancing)=6e-15, PDHG=1e-15, PDHG (restart)=1e-15
+[D] 20/20 digits-cross-462-1105: ADMM (fixed rho)=4e-16, ADMM (residual balancing)=2e-14, PDHG=2e-15, PDHG (restart)=1e-15
+[saved] C:\Users\Administrator\Documents\trae_projects\Advanced Topics in Optimization\COMP6704_Individual_Project\results\experiment_d.json
+[saved] C:\Users\Administrator\Documents\trae_projects\Advanced Topics in Optimization\COMP6704_Individual_Project\results\experiment_d_plans.npz

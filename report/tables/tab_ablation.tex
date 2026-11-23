@@ -1,0 +1,12 @@
+\begin{tabular}{llccc}
+\toprule
+Family & Variant & rate@$10^{-3}$ (s) & rate@$10^{-4}$ (s) & median $e_{\mathrm{feas}}$ \\
+\midrule
+ADMM & fixed rho & 100\% (0.08) & 100\% (0.29) & $2.1{\times}10^{-6}$ \\
+ADMM & residual balancing & 100\% (0.25) & 67\% (0.20) & $4.7{\times}10^{-5}$ \\
+PDHG & restart=False & 100\% (0.22) & 83\% (0.44) & $2.8{\times}10^{-5}$ \\
+PDHG & restart=True & 100\% (0.23) & 83\% (0.43) & $2.8{\times}10^{-5}$ \\
+PDHG & plain & 100\% (0.22) & 83\% (0.43) & $2.8{\times}10^{-5}$ \\
+PDHG & preconditioned & 83\% (0.48) & 50\% (0.51) & $1.0{\times}10^{-4}$ \\
+\bottomrule
+\end{tabular}

@@ -1,0 +1,7 @@
+﻿[A] trace 10-uniform-seed0: ADMM (fixed rho) feas=1.7e-16 obj=3.5e-18, ADMM (residual balancing) feas=1.4e-16 obj=6.9e-18, PDHG feas=0.0e+00 obj=6.9e-18, PDHG (restart) feas=0.0e+00 obj=6.9e-18
+[A] trace 20-uniform-seed1: ADMM (fixed rho) feas=3.7e-16 obj=2.1e-17, ADMM (residual balancing) feas=6.6e-15 obj=5.6e-17, PDHG feas=1.2e-15 obj=2.1e-17, PDHG (restart) feas=1.2e-15 obj=1.4e-17
+[A] trace 20-dirichlet0.2-seed2: ADMM (fixed rho) feas=1.2e-06 obj=2.7e-08, ADMM (residual balancing) feas=4.2e-05 obj=2.6e-07, PDHG feas=1.4e-05 obj=5.8e-08, PDHG (restart) feas=1.4e-05 obj=5.8e-08
+[A] trace 100-uniform-seed0: ADMM (fixed rho) feas=4.5e-16 obj=5.9e-08, ADMM (residual balancing) feas=1.6e-14 obj=3.8e-17, PDHG feas=3.0e-15 obj=0.0e+00, PDHG (restart) feas=3.0e-15 obj=1.7e-18
+[A] trace 200-uniform-seed0: ADMM (fixed rho) feas=6.8e-12 obj=6.3e-09, ADMM (residual balancing) feas=2.1e-14 obj=1.4e-17, PDHG feas=8.1e-15 obj=3.4e-09, PDHG (restart) feas=8.0e-15 obj=3.4e-09
+[A] trace 200-dirichlet0.2-seed0: ADMM (fixed rho) feas=1.1e-04 obj=7.3e-07, ADMM (residual balancing) feas=8.7e-04 obj=1.5e-05, PDHG feas=2.8e-04 obj=1.8e-06, PDHG (restart) feas=2.8e-04 obj=1.8e-06
+[saved] C:\Users\Administrator\Documents\trae_projects\Advanced Topics in Optimization\COMP6704_Individual_Project\results\experiment_a.json

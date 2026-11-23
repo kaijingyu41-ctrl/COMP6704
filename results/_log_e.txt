@@ -1,0 +1,9 @@
+﻿[E] syn-dirichlet0.2-200-seed0       ADMM (fixed rho)   50k=1.1e-04 100k=6.8e-05 200k=3.4e-05 400k=1.3e-05
+[E] syn-dirichlet0.2-200-seed0       PDHG               50k=2.8e-04 100k=1.3e-04 200k=4.9e-05 400k=2.4e-05
+[E] syn-dirichlet0.2-200-seed1       ADMM (fixed rho)   50k=7.7e-05 100k=3.2e-05 200k=2.8e-05 400k=1.4e-05
+[E] syn-dirichlet0.2-200-seed1       PDHG               50k=3.5e-04 100k=1.7e-04 200k=8.1e-05 400k=2.7e-05
+[E] syn-dirichlet0.2-100-seed0       ADMM (fixed rho)   50k=2.0e-05 100k=2.9e-06 200k=2.1e-06 400k=1.5e-06
+[E] syn-dirichlet0.2-100-seed0       PDHG               50k=1.0e-04 100k=9.7e-05 200k=5.2e-05 400k=1.4e-05
+[E] syn-uniform-200-seed0            ADMM (fixed rho)   50k=6.8e-12 100k=1.5e-15 200k=1.5e-15 400k=1.3e-15
+[E] syn-uniform-200-seed0            PDHG               50k=8.1e-15 100k=8.1e-15 200k=8.1e-15 400k=8.1e-15
+[saved] C:\Users\Administrator\Documents\trae_projects\Advanced Topics in Optimization\COMP6704_Individual_Project\results\experiment_e.json

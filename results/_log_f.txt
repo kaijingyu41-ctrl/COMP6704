@@ -1,0 +1,9 @@
+﻿[F] syn-uniform-20-seed0           ADMM (fixed rho)   budget   0.71s (range 0.70-0.71, spread  1.1%)  1e-3 in 0.006s (spread  3.3%)
+[F] syn-uniform-20-seed0           PDHG               budget   0.56s (range 0.56-0.56, spread  0.7%)  1e-3 in 0.004s (spread  2.3%)
+[F] syn-uniform-200-seed0          ADMM (fixed rho)   budget   8.39s (range 8.34-8.59, spread  2.9%)  1e-3 in 0.403s (spread  1.9%)
+[F] syn-uniform-200-seed0          PDHG               budget   5.73s (range 5.67-5.81, spread  2.4%)  1e-3 in 0.515s (spread  3.8%)
+[F] syn-dirichlet0.2-200-seed0     ADMM (fixed rho)   budget   8.45s (range 8.43-8.59, spread  1.9%)  1e-3 in 0.807s (spread  3.2%)
+[F] syn-dirichlet0.2-200-seed0     PDHG               budget   5.91s (range 5.86-5.94, spread  1.3%)  1e-3 in 2.273s (spread  1.9%)
+[saved] C:\Users\Administrator\Documents\trae_projects\Advanced Topics in Optimization\COMP6704_Individual_Project\results\experiment_f.json
+
+[F] largest relative spread over the 6 configurations: 2.9%

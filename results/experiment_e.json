@@ -1,0 +1,345 @@
+{
+ "admm_rho": 100.0,
+ "baseline_budget": {
+  "max_iter": 50000,
+  "time_limit": 60.0
+ },
+ "budget": {
+  "log_every": 200,
+  "max_iter": 400000,
+  "time_limit": 300.0
+ },
+ "checkpoints": [
+  50000,
+  100000,
+  200000,
+  400000
+ ],
+ "pdhg_eta": 0.99,
+ "runs": [
+  {
+   "checkpoint": 50000,
+   "feasibility_error": 0.0001094817126404536,
+   "instance": "syn-dirichlet0.2-200-seed0",
+   "mass_kind": "dirichlet0.2",
+   "method": "ADMM (fixed rho)",
+   "objective_error": 7.293845750849792e-07,
+   "seed": 0,
+   "size": 200
+  },
+  {
+   "checkpoint": 100000,
+   "feasibility_error": 6.831645032035425e-05,
+   "instance": "syn-dirichlet0.2-200-seed0",
+   "mass_kind": "dirichlet0.2",
+   "method": "ADMM (fixed rho)",
+   "objective_error": 3.3075803567012008e-06,
+   "seed": 0,
+   "size": 200
+  },
+  {
+   "checkpoint": 200000,
+   "feasibility_error": 3.4290009104089904e-05,
+   "instance": "syn-dirichlet0.2-200-seed0",
+   "mass_kind": "dirichlet0.2",
+   "method": "ADMM (fixed rho)",
+   "objective_error": 1.912196111175657e-07,
+   "seed": 0,
+   "size": 200
+  },
+  {
+   "checkpoint": 400000,
+   "feasibility_error": 1.3395676717893796e-05,
+   "instance": "syn-dirichlet0.2-200-seed0",
+   "mass_kind": "dirichlet0.2",
+   "method": "ADMM (fixed rho)",
+   "objective_error": 6.355265521999776e-07,
+   "seed": 0,
+   "size": 200
+  },
+  {
+   "checkpoint": 50000,
+   "feasibility_error": 0.000284394067129489,
+   "instance": "syn-dirichlet0.2-200-seed0",
+   "mass_kind": "dirichlet0.2",
+   "method": "PDHG",
+   "objective_error": 1.7864607223284923e-06,
+   "seed": 0,
+   "size": 200
+  },
+  {
+   "checkpoint": 100000,
+   "feasibility_error": 0.0001284197635314488,
+   "instance": "syn-dirichlet0.2-200-seed0",
+   "mass_kind": "dirichlet0.2",
+   "method": "PDHG",
+   "objective_error": 1.480589349799749e-06,
+   "seed": 0,
+   "size": 200
+  },
+  {
+   "checkpoint": 200000,
+   "feasibility_error": 4.931358154859587e-05,
+   "instance": "syn-dirichlet0.2-200-seed0",
+   "mass_kind": "dirichlet0.2",
+   "method": "PDHG",
+   "objective_error": 1.2881459783911642e-07,
+   "seed": 0,
+   "size": 200
+  },
+  {
+   "checkpoint": 400000,
+   "feasibility_error": 2.3952961758559217e-05,
+   "instance": "syn-dirichlet0.2-200-seed0",
+   "mass_kind": "dirichlet0.2",
+   "method": "PDHG",
+   "objective_error": 3.2675643693580447e-07,
+   "seed": 0,
+   "size": 200
+  },
+  {
+   "checkpoint": 50000,
+   "feasibility_error": 7.741164428058545e-05,
+   "instance": "syn-dirichlet0.2-200-seed1",
+   "mass_kind": "dirichlet0.2",
+   "method": "ADMM (fixed rho)",
+   "objective_error": 5.010840841805642e-07,
+   "seed": 1,
+   "size": 200
+  },
+  {
+   "checkpoint": 100000,
+   "feasibility_error": 3.1633698683593694e-05,
+   "instance": "syn-dirichlet0.2-200-seed1",
+   "mass_kind": "dirichlet0.2",
+   "method": "ADMM (fixed rho)",
+   "objective_error": 3.255975552680923e-07,
+   "seed": 1,
+   "size": 200
+  },
+  {
+   "checkpoint": 200000,
+   "feasibility_error": 2.778248939614279e-05,
+   "instance": "syn-dirichlet0.2-200-seed1",
+   "mass_kind": "dirichlet0.2",
+   "method": "ADMM (fixed rho)",
+   "objective_error": 1.5868025446154344e-06,
+   "seed": 1,
+   "size": 200
+  },
+  {
+   "checkpoint": 400000,
+   "feasibility_error": 1.3855202833208273e-05,
+   "instance": "syn-dirichlet0.2-200-seed1",
+   "mass_kind": "dirichlet0.2",
+   "method": "ADMM (fixed rho)",
+   "objective_error": 8.011726724439783e-07,
+   "seed": 1,
+   "size": 200
+  },
+  {
+   "checkpoint": 50000,
+   "feasibility_error": 0.0003458181728271443,
+   "instance": "syn-dirichlet0.2-200-seed1",
+   "mass_kind": "dirichlet0.2",
+   "method": "PDHG",
+   "objective_error": 1.9346250949198868e-05,
+   "seed": 1,
+   "size": 200
+  },
+  {
+   "checkpoint": 100000,
+   "feasibility_error": 0.0001672573402183674,
+   "instance": "syn-dirichlet0.2-200-seed1",
+   "mass_kind": "dirichlet0.2",
+   "method": "PDHG",
+   "objective_error": 8.570328545964151e-06,
+   "seed": 1,
+   "size": 200
+  },
+  {
+   "checkpoint": 200000,
+   "feasibility_error": 8.094953150373035e-05,
+   "instance": "syn-dirichlet0.2-200-seed1",
+   "mass_kind": "dirichlet0.2",
+   "method": "PDHG",
+   "objective_error": 4.96267816422688e-06,
+   "seed": 1,
+   "size": 200
+  },
+  {
+   "checkpoint": 400000,
+   "feasibility_error": 2.674391812012213e-05,
+   "instance": "syn-dirichlet0.2-200-seed1",
+   "mass_kind": "dirichlet0.2",
+   "method": "PDHG",
+   "objective_error": 1.263733241867876e-06,
+   "seed": 1,
+   "size": 200
+  },
+  {
+   "checkpoint": 50000,
+   "feasibility_error": 1.97189374665629e-05,
+   "instance": "syn-dirichlet0.2-100-seed0",
+   "mass_kind": "dirichlet0.2",
+   "method": "ADMM (fixed rho)",
+   "objective_error": 2.7290127567469735e-08,
+   "seed": 0,
+   "size": 100
+  },
+  {
+   "checkpoint": 100000,
+   "feasibility_error": 2.9019287526382218e-06,
+   "instance": "syn-dirichlet0.2-100-seed0",
+   "mass_kind": "dirichlet0.2",
+   "method": "ADMM (fixed rho)",
+   "objective_error": 1.42208496020646e-09,
+   "seed": 0,
+   "size": 100
+  },
+  {
+   "checkpoint": 200000,
+   "feasibility_error": 2.1091059896568735e-06,
+   "instance": "syn-dirichlet0.2-100-seed0",
+   "mass_kind": "dirichlet0.2",
+   "method": "ADMM (fixed rho)",
+   "objective_error": 4.569334473292219e-09,
+   "seed": 0,
+   "size": 100
+  },
+  {
+   "checkpoint": 400000,
+   "feasibility_error": 1.4555794343603912e-06,
+   "instance": "syn-dirichlet0.2-100-seed0",
+   "mass_kind": "dirichlet0.2",
+   "method": "ADMM (fixed rho)",
+   "objective_error": 1.3284689851650322e-08,
+   "seed": 0,
+   "size": 100
+  },
+  {
+   "checkpoint": 50000,
+   "feasibility_error": 0.00010458400027045003,
+   "instance": "syn-dirichlet0.2-100-seed0",
+   "mass_kind": "dirichlet0.2",
+   "method": "PDHG",
+   "objective_error": 1.4005622899632142e-07,
+   "seed": 0,
+   "size": 100
+  },
+  {
+   "checkpoint": 100000,
+   "feasibility_error": 9.726051413930119e-05,
+   "instance": "syn-dirichlet0.2-100-seed0",
+   "mass_kind": "dirichlet0.2",
+   "method": "PDHG",
+   "objective_error": 1.5858913349903192e-06,
+   "seed": 0,
+   "size": 100
+  },
+  {
+   "checkpoint": 200000,
+   "feasibility_error": 5.1554868586272725e-05,
+   "instance": "syn-dirichlet0.2-100-seed0",
+   "mass_kind": "dirichlet0.2",
+   "method": "PDHG",
+   "objective_error": 7.582322720627033e-07,
+   "seed": 0,
+   "size": 100
+  },
+  {
+   "checkpoint": 400000,
+   "feasibility_error": 1.3890405897073193e-05,
+   "instance": "syn-dirichlet0.2-100-seed0",
+   "mass_kind": "dirichlet0.2",
+   "method": "PDHG",
+   "objective_error": 2.225242022452223e-07,
+   "seed": 0,
+   "size": 100
+  },
+  {
+   "checkpoint": 50000,
+   "feasibility_error": 6.7959509547632635e-12,
+   "instance": "syn-uniform-200-seed0",
+   "mass_kind": "uniform",
+   "method": "ADMM (fixed rho)",
+   "objective_error": 6.264151462299916e-09,
+   "seed": 0,
+   "size": 200
+  },
+  {
+   "checkpoint": 100000,
+   "feasibility_error": 1.5014031684579265e-15,
+   "instance": "syn-uniform-200-seed0",
+   "mass_kind": "uniform",
+   "method": "ADMM (fixed rho)",
+   "objective_error": 5.188337925086939e-09,
+   "seed": 0,
+   "size": 200
+  },
+  {
+   "checkpoint": 200000,
+   "feasibility_error": 1.4554329963445412e-15,
+   "instance": "syn-uniform-200-seed0",
+   "mass_kind": "uniform",
+   "method": "ADMM (fixed rho)",
+   "objective_error": 3.0366782031651662e-09,
+   "seed": 0,
+   "size": 200
+  },
+  {
+   "checkpoint": 400000,
+   "feasibility_error": 1.339206523454095e-15,
+   "instance": "syn-uniform-200-seed0",
+   "mass_kind": "uniform",
+   "method": "ADMM (fixed rho)",
+   "objective_error": 2.6020852139652106e-18,
+   "seed": 0,
+   "size": 200
+  },
+  {
+   "checkpoint": 50000,
+   "feasibility_error": 8.050851652008362e-15,
+   "instance": "syn-uniform-200-seed0",
+   "mass_kind": "uniform",
+   "method": "PDHG",
+   "objective_error": 3.3638588980283712e-09,
+   "seed": 0,
+   "size": 200
+  },
+  {
+   "checkpoint": 100000,
+   "feasibility_error": 8.050851652008362e-15,
+   "instance": "syn-uniform-200-seed0",
+   "mass_kind": "uniform",
+   "method": "PDHG",
+   "objective_error": 2.6020852139652106e-18,
+   "seed": 0,
+   "size": 200
+  },
+  {
+   "checkpoint": 200000,
+   "feasibility_error": 8.050851652008362e-15,
+   "instance": "syn-uniform-200-seed0",
+   "mass_kind": "uniform",
+   "method": "PDHG",
+   "objective_error": 2.6020852139652106e-18,
+   "seed": 0,
+   "size": 200
+  },
+  {
+   "checkpoint": 400000,
+   "feasibility_error": 8.050851652008362e-15,
+   "instance": "syn-uniform-200-seed0",
+   "mass_kind": "uniform",
+   "method": "PDHG",
+   "objective_error": 2.6020852139652106e-18,
+   "seed": 0,
+   "size": 200
+  }
+ ],
+ "tolerances": [
+  0.001,
+  0.0001
+ ]
+}

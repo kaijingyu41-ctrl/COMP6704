@@ -1,0 +1,14 @@
+# Reproducibility environment for COMP6704 individual assignment.
+# Install with:  python -m pip install -r requirements.txt
+#
+# Versions recorded from the machine on which the reported results were produced.
+numpy==2.5.4
+scipy==1.18.1
+matplotlib==3.11.2
+pandas==3.1.0
+scikit-learn==1.9.1
+pytest==9.2.0
+pypdf==6.21.4
+
+# Either minimum version works if the exact pins are unavailable; the results in
+# the report were produced with the versions above.

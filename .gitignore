@@ -1,0 +1,17 @@
+# Python caches and bytecode
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Editors / OS
+.DS_Store
+Thumbs.db
